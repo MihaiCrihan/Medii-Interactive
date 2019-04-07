@@ -1,0 +1,7 @@
+dist
+dist-*
+*.txt
+*.exe
+*.cpp
+*.bat
+*.docx
